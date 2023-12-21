@@ -4,6 +4,8 @@ Coffee Beans Project Overview:
 
 •	Tools used: Microsoft Excel.
 
+•	Functions Used: IF statement, Nested IF statement, X-Lookup, Match and Index.
+
 •	Goal: Data manipulation and visualization.
 
 Summary of cells, sheets, rows, columns, and chart manipulation:
