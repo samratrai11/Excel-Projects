@@ -4,7 +4,7 @@ Overview:
 
 •	Tools used: Microsoft excel.
 
-•	Formulas applied =IF(logical_test, [value_if_true], [value_if_false]).
+•	Functions applied =IF statement and Nested IF's.
 
 •	Functions used: Pivot Table, slicer, bar and line charts.
 
