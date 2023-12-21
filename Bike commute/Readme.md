@@ -5,7 +5,7 @@ Overview:
 •	Tools used: Microsoft excel.
 
 •	Functions applied =IF statement and Nested IF's.
-
+ 
 •	Functions used: Pivot Table, slicer, bar and line charts.
 
 
