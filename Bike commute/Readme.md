@@ -8,7 +8,6 @@ Overview:
  
 •	Functions used: Pivot Table, slicer, bar and line charts.
 
-•	Dashboard link: Bike commute dashboard.xlsx
 
 
 Steps taken:
