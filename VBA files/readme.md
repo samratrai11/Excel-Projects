@@ -9,7 +9,7 @@ If ActiveCell.Value >= 21 Then
 MsgBox ("user is 21 or older")
 Else
 MsgBox ("Not allowed")
-End If
+End If 
 End Sub
 
 Public Sub Ifprac2()
