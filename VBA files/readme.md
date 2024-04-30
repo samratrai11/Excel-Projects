@@ -9,7 +9,7 @@ I hope you all like it 🙌.
 3.	MsgBox ("user is 21 or older")
 4.	Else
 5.	MsgBox ("Not allowed")
-6.	End If 
+6.	End If  
 7.	End Sub
 
 1.	Public Sub Ifprac2()
